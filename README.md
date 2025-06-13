@@ -51,7 +51,7 @@ My first mobile app project - a simple goal tracking application built with Reac
 
 1. Clone this repository
 2. Install dependencies: `npm install`
-3. Start Expo: `npx expo start`
+3. Start Expo: `npm start`
 4. Run on device/simulator using Expo Go app
 
 ## About
