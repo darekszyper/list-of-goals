@@ -9,6 +9,18 @@ My first mobile app project - a simple goal tracking application built with Reac
 - **Modal Interface**: Clean slide-up modal for goal input
 - **Responsive Design**: Touch feedback with ripple effects on Android
 
+## Screenshots
+
+### Android
+| Home Screen | Add Goal Modal | Goal List |
+|-------------|----------------|-----------|
+| ![Android Home](screenshots/android_home.png) | ![Android Add](screenshots/android_add.png) | ![Android List](screenshots/android_list.png) |
+
+### iOS
+| Home Screen | Add Goal Modal | Goal List |
+|-------------|----------------|-----------|
+| ![iOS Home](screenshots/ios_home.png) | ![iOS Add](screenshots/ios_add.png) | ![iOS List](screenshots/ios_list.png) |
+
 ## Components Built
 
 ### App.js (Main Component)
@@ -27,18 +39,6 @@ My first mobile app project - a simple goal tracking application built with Reac
 - **Pressable**: Used instead of TouchableOpacity for better touch handling
 - **android_ripple**: Android-specific ripple effect for native feel
 - **Conditional Styling**: iOS pressed state styling for cross-platform consistency
-
-## Screenshots
-
-### Android
-| Home Screen | Add Goal Modal | Goal List |
-|-------------|----------------|-----------|
-| ![Android Home](screenshots/android_home.png) | ![Android Add](screenshots/android_add.png) | ![Android List](screenshots/android_list.png) |
-
-### iOS
-| Home Screen | Add Goal Modal | Goal List |
-|-------------|----------------|-----------|
-| ![iOS Home](screenshots/ios_home.png) | ![iOS Add](screenshots/ios_add.png) | ![iOS List](screenshots/ios_list.png) |
 
 ## Technology Stack
 
